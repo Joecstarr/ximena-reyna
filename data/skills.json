@@ -1,0 +1,29 @@
+[
+  {
+    "grouping": "Languages (Spoken & Written)",
+    "skills": [
+      { "name": "English (Native)" },
+      { "name": "Spanish (Native)" }
+    ]
+  },
+  {
+    "grouping": "Computer Tools",
+    "skills": [
+      { "name": "Word" },
+      { "name": "Excel" },
+      { "name": "PowerPoint" },
+      { "name": "Google Suite" }
+    ]
+  },
+  {
+    "grouping": "General",
+    "skills": [
+      { "name": "Organization" },
+      { "name": "Tenacity" },
+      { "name": "Problem Solving" },
+      { "name": "Communication Skills" },
+      { "name": "Customer Service" }
+
+    ]
+  }
+]
