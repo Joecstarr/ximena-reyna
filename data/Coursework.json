@@ -1,8 +1,20 @@
 [
   {
-    "role": "Manager",
-    "company": "Plato’s Closet",
-    "summary": "* Leads team during shifts. \n* Collaborated in creation of policies aimed at  reducing company waste.\n* Manage POS software.\n* Strong customer service skills.",
-    "range": "October 2019- Present"
+    "course": "Introduction to Sustainability",
+    "Semester": "Fall 2020",
+    "Institution": "Michigan State University",
+    "summary": "* Personal role in sustainability initiative.\n\n* Implications of individual actions for key sustainability challenges.\n\n* Application of sustainability principles and leadership skills in community.\n\n* Created a project that kept records of and collected data for an indoor compost. This data was later used to quantify the downstream effects of composting at an individual household level.\n\n* Downstream effects of composting"
+  },
+  {
+    "course": "Sustainable Energy and Society",
+    "Institution": "Michigan State University",
+    "Semester": "Fall 2020",
+    "summary": "* Energy systems, and energy transitions.   \n\n* Personal and societal roadblocks to achieving sustainable energy.\n\n* Energy poverty, justice and decision-making."
+  },
+  {
+    "course": "Ecological Economics",
+    "Institution": "Michigan State University",
+    "Semester": "Spring 2021",
+    "summary": "* Relationship between the economy and the natural environment.\n\n* Economic organization and sustainability.\n\n* Economic concepts applied to natural resources and agriculture."
   }
 ]
